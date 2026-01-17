@@ -1,0 +1,5 @@
+# Environment variables (DO NOT COMMIT)
+.env
+.env.local
+.env.production
+.env.development
